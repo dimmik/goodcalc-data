@@ -1,0 +1,1 @@
+# goodcalc-data
